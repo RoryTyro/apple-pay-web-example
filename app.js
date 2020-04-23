@@ -148,4 +148,3 @@ var applePayUiController = (function () {
   
   // Initialise the Apple Pay controller and let the magic happen
   applePayController.init()
-
